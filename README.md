@@ -1,7 +1,7 @@
 # Quantitative-Analysis-of-Fund-Performance-Risk-Adjusted-Returns-for-Small-Mid-and-Large-Cap-Funds
 This project analyzes the performance of small, mid, and large cap funds from 2020 to 2023. Using linear regression, it calculates volatility and risk-adjusted returns based on closing indices data, providing insights into each fund's risk and performance.
 
-So, as we know in 2020 due to COVID-19 and in 2022 due to Russia-Ukraine war Indian stock market went through a deep red. It fell sharply. Although it recovered but as an stck market enhusiast I decided to analyxe their perfomance from the start of 2020 to end of 2024. My main motive was to get a quantitative view about how each of these funds reacted during thet period of time and in the end which gave a better returns at lower risk. 
+So, as we know in 2020 due to COVID-19 and in 2022 due to Russia-Ukraine war Indian stock market went through a deep red. It fell sharply. Although it recovered but as an stck market enthusiast I dicided to analyxe their perfomance from the start of 2020 to end of 2024. My main motive was to get a quantitative view about how each of these funds reacted during thet period of time and in the end which gave a better returns taking volatility into account. 
 Starting with the data source, here for this project I collected all 4 year data of small, mid and large cap funds from  https://www.bseindia.com/Indices/IndexArchiveData.html this website. I only considered their closing price of each day. Total 994 days of data was there.
 ![image](https://github.com/daniketdas/Quantitative-Analysis-of-Fund-Performance-Risk-Adjusted-Returns-for-Small-Mid-and-Large-Cap-Funds/assets/162815966/44a19175-4247-4018-a157-7e729e490031) **This graph presents their performance over 4 years.**
 
@@ -9,6 +9,7 @@ Then I used Linear Regression method to quantify their returns/reward over 4 yea
 
 ![image](https://github.com/daniketdas/Quantitative-Analysis-of-Fund-Performance-Risk-Adjusted-Returns-for-Small-Mid-and-Large-Cap-Funds/assets/162815966/d56d38ca-4409-4ba5-82f4-c1af22b7eac2) 
 ![image](https://github.com/daniketdas/Quantitative-Analysis-of-Fund-Performance-Risk-Adjusted-Returns-for-Small-Mid-and-Large-Cap-Funds/assets/162815966/f25b5196-c83e-474f-ae04-2a864eda505a) 
+
 **Here I got intercept parameter and coefficients for all the funds, where each fund has been taken as both independent and dependent variable.**
 
 
