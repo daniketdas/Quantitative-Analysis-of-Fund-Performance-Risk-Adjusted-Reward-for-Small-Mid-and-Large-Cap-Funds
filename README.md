@@ -39,8 +39,10 @@ To get this first I calculated their per day percentage change in their points f
 
 This involves dividing the reward by volatility.
 
-## Conclusion:
- The analysis reveals that among small, mid, and large cap funds, the mid cap fund provided the highest risk-adjusted return over the period from 2020 to 2023. This suggests that mid cap funds offered the most favorable balance of risk and reward, making them an attractive option for investors seeking optimized returns relative to their risk exposure.
+## Result:
+ * This suggests that mid cap funds offered the most favorable balance of risk and reward of 0.22, making them an attractive option for investors seeking optimized returns relative to their risk exposure.
+ * Small cap funds showed lower risk-adjusted return than mid-cap. Although small cap funds usually give higher returns due to their small market cap and high growth rate but in this period it fell short of mid cap when risk considered as it showed much volatility as compared to mid cap.
+ * Large-cap funds showed a negative risk-adjusted reward of -0.19. This result indicates that, over the analysed period, large-cap funds did not provide adequate returns relative to the risks involved.
 
 
 
